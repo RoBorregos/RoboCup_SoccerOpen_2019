@@ -1,0 +1,8 @@
+bool veoPelota(){
+
+  
+}
+
+void anguloPelota(){
+  
+}
