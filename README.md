@@ -1,1 +1,0 @@
-# RoboCup_SoccerOpen_2019
