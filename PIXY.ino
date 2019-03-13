@@ -1,8 +1,0 @@
-bool veoPelota(){
-
-  
-}
-
-void anguloPelota(){
-  
-}
